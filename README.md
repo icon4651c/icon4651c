@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python C**
 
-- 📫 How to reach me **67991037@kmitl.ac.th** <img src="assets/ambatron.png" align="right" width="200">
+- 📫 How to reach me **67991037@kmitl.ac.th** <img src="assets/ambatron.png" align="right" width="100">
 
 - ⚡ Fun fact **I once met with ambatron**
 
