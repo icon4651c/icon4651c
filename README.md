@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **67991037@kmitl.ac.th** <img src="assets/ambatron.png" align="right" width="200">
 
-- ⚡ Fun fact **I once met with ambatron in backroom floor 516**
+- ⚡ Fun fact **I once met with ambatron**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
