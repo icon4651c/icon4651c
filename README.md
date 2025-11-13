@@ -1,7 +1,7 @@
 <h1 align="center">Hi sir Chawaphon Pichaiwong</h1>
 <h3 align="center">I am a second year student from kosen kmitl</h3>
 
-- 🌱 I’m currently learning **python **
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **67991037@kmitl.ac.th** <img src="assets/ambatron.png" align="right" width="400">
 
