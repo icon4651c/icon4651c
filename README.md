@@ -1,4 +1,4 @@
-<h1 align="center">Hi sir Chawaphon Pichaiwong</h1>
+<h1 align="center">Hi sir My name is Chawaphon Pichaiwong</h1>
 <h3 align="center">I am a second year student from kosen kmitl</h3>
 
 - 🌱 I’m currently learning **python C**
